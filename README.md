@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Passionate Learner, exploring Web Development for now!
 ![banner image](https://github.com/Sreejit-Sengupto/Web-Development/blob/main/image.png)
 🔭I'm currently working on My Skills.<br>👯I'm looking to collaborate on projects dealing with HTML & CSS.<br>🤝Need help in finding project for beginners to contribute to and some guidance in this Tech field.<br>🌱I'm currently learning HTML, CSS, JAVASCRIPT AND JAVA.<br>⚡MCU is Awesome.🤩
 
