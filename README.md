@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **sreesen2003@gmail.com**
 
+- 🔥 Super Active on **Twitter**
+
 - ⚡ Fun fact **MCU is Awesome 🔥🤩**
 
 <h3 align="left">Connect with me:</h3>
