@@ -1,4 +1,4 @@
-<img src="https://github.com/Sreejit-Sengupto/Web-Development/blob/main/image.png">
+<!-- <img src="https://github.com/Sreejit-Sengupto/Web-Development/blob/main/image.png"> -->
 <h1 align="center">Hi 👋, I'm Sreejit</h1>
 <h3 align="center">Passionate Learner, exploring Web Development for now!</h3>
 <img src="https://github.com/Sreejit-Sengupto/Web-Development/blob/main/0_7Q3yvSIv_t0ioJ-Z.gif">
