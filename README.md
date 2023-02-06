@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **my Skills**
 
-- 🌱 I’m currently learning **CSS, JavaScript and Java**
+- 🌱 I’m currently learning **React, JavaScript and Java**
 
-- 👯 I’m looking to collaborate on **beginner friendly Projects dealing with HTML and CSS**
+- 👯 I’m looking to collaborate on **beginner friendly Projects dealing with HTML, CSS, JavaScript, React**
 
 - 🤝 I’m looking for help with **finding someone who can guide me through Open Source and Tech.**
 
